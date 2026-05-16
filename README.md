@@ -100,12 +100,19 @@ dotnet run
 
 **Welcome Screen**
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2e919010-6052-4e6f-9bda-7b034802aec8" />
 
 **Mid-Game Board**
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/4bbc737a-9676-434f-a715-3df74299722a" />
+
+**Win** 
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/79f77551-1509-446a-9863-f211a2a119f1" />
 
 **Game Over**
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1212d3be-49f4-4d1f-bf08-7a08317fd5b0" />
 
 ---
 
